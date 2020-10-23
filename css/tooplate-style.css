@@ -47,7 +47,7 @@ h2 {
 }
 
 h3 {
-  color: #d7b065;
+  color: #FF0800;
   font-size: 16px;
   font-weight: bold;
   line-height: 32px;
@@ -74,7 +74,10 @@ strong, span {
   font-weight: normal;
 }
 
-
+/*customization edit*/
+.h3-edit {
+  font-size: 24px;
+}
 
 /*---------------------------------------
   Buttons               
@@ -95,9 +98,8 @@ strong, span {
 }
 
 .arrow-btn i:hover {
-  background: #d7b065;
+  background: #FF3E0D;
 }
-
 
 
 /*---------------------------------------
@@ -241,17 +243,17 @@ a:hover, a:active, a:focus {
 }
 
 #about .col-md-4 a {
-  background: #e8e8e8;
+  background: #FFFFFF;
   border-radius: 8px;
-  color: #000000;
+  color: #FF3E0D;
   padding: 6px 12px;
   display: inline-block;
   margin-bottom: 40px;
 }
 
 #about .col-md-4 a:hover {
-  background: #000000;
-  color: #ffffff;
+  background: #FF3E0D;
+  color: #FFFFFF;
 }
 
 #about .about-thumb {
@@ -429,7 +431,7 @@ footer .dash-line {
 }
 
 .social-icon li a:hover {
-  background: #d7b065;
+  background: #FF3E0D;
   color: #ffffff;
   transform: scale(1.1);
 }
