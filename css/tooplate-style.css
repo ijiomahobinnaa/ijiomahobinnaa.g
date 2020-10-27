@@ -79,8 +79,12 @@ strong, span {
   font-size: 60px;
   text-transform:capitalize;
   color:black;
-}
+  margin-bottom:-10px;
 
+}
+.h3-edit{
+  margin-bottom:30px;
+}
 /*---------------------------------------
   Buttons               
 -----------------------------------------*/
@@ -224,7 +228,7 @@ a:hover, a:active, a:focus {
   -ms-flex-align: center;
   -o-flex-align:center;
    align-items: center;
-  height: 75vh;
+  height: 90vh;
   text-align: center;
   position: relative;
   margin: 82px 12px 0 12px;
@@ -276,6 +280,7 @@ a:hover, a:active, a:focus {
 
 #work {
   background: #ffffff;
+  
 }
 
 #work .work-thumb {
