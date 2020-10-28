@@ -432,12 +432,12 @@ footer .dash-line {
   border-radius: 100%;
   color: #3d3d3f;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 20px;
   text-decoration: none;
   transition: all 0.4s ease-in-out;
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
   text-align: center;
   vertical-align: middle;
   position: relative;
@@ -449,6 +449,7 @@ footer .dash-line {
   color: #ffffff;
   transform: scale(1.1);
 }
+
 
 /*---------------------------------------
   Mobile Responsive styles              
