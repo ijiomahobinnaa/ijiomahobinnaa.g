@@ -457,7 +457,29 @@ footer .dash-line {
 @media (max-width: 980px) {
 
  h1 {font-size: 30px;}
-
+ #home {
+  -o-background: url('../images/home-bg2.jpg') 50% 0 no-repeat fixed;
+  background: url('../images/home-bg2.jpg') 50% 0 no-repeat fixed;
+  -o-background-size:cover;
+  -o-background-position:center center;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:-o-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  -o-flex-align:center;
+   align-items: center;
+  height: 90vh;
+  text-align: center;
+  position: relative;
+  margin: 82px 22px 0 12px;
+}
  #about .about-thumb {
   padding-left: 0px;
  }
@@ -469,7 +491,29 @@ footer .dash-line {
 }
 
 @media (max-width: 768px) {
-
+  #home {
+    -o-background: url('../images/home-bg2.jpg') 50% 0 no-repeat fixed;
+    background: url('../images/home-bg2.jpg') 50% 0 no-repeat fixed;
+    -o-background-size:cover;
+    -o-background-position:center center;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 5px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:-o-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -o-flex-align:center;
+     align-items: center;
+    height: 90vh;
+    text-align: center;
+    position: relative;
+    margin: 82px 22px 0 12px;
+  }
   h1 {
     font-size: 27px;
   }
@@ -496,7 +540,29 @@ footer .dash-line {
     font-size: 14px;
     letter-spacing: 4px;
   }
-
+#home {
+  -o-background: url('../images/home-bg2.jpg') 50% 0 no-repeat fixed;
+  background: url('../images/home-bg2.jpg') 50% 0 no-repeat fixed;
+  -o-background-size:cover;
+  -o-background-position:center center;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:-o-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  -o-flex-align:center;
+   align-items: center;
+  height: 90vh;
+  text-align: center;
+  position: relative;
+  margin: 82px 22px 0 12px;
+}
   #about .about-thumb {
     padding: 22px 12px;
     margin-top: 0px;
@@ -508,5 +574,27 @@ footer .dash-line {
   #home {
     height: 85vh;
   } 
-
+  #home {
+    -o-background: url('../images/home-bg2.jpg') 50% 0 no-repeat fixed;
+    background: url('../images/home-bg2.jpg') 50% 0 no-repeat fixed;
+    -o-background-size:cover;
+    -o-background-position:center center;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 5px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:-o-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -o-flex-align:center;
+     align-items: center;
+    height: 90vh;
+    text-align: center;
+    position: relative;
+    margin: 82px 22px 0 12px;
+  }
 }
